@@ -681,7 +681,7 @@ def send_email(receiver_email, pdf_path, user_name):
 # -------------------------------------------------
 MODEL_FOLDER = "models"
 SWIN_MODEL_FILE = "swin.pth"
-SWIN_MODEL_URL = "https://huggingface.co/shivamverma30/hemoscan-model/resolve/main/swin.pth"
+SWIN_MODEL_URL = "https://huggingface.co/anshurajgaya1234-web/swim/resolve/main/swin.pth"
 SWIN_MODEL_PATH = os.path.join(MODEL_FOLDER, SWIN_MODEL_FILE)
 
 
